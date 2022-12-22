@@ -10,3 +10,7 @@ print(mi_complejo)
 
 mi_numero = input('Ingrese un valor')
 print('el valor ingresado fue', mi_numero)
+
+v1 = input("Ingresa nombre: ")
+
+print(v1)
